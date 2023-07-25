@@ -1,8 +1,7 @@
-# About :
+# About : The name of this project is 'Modern Chair'. The chair's color will change and it will vibrate upon clicking the corresponding color. The technologies used for this project are HTML, CSS, and JavaScript.
 
 
-# Hosted On :
-Netlify
+# Hosted On : Netlify
 
 # Visit & Short URL : https://sha-modern-chair.netlify.app/
 
